@@ -2,7 +2,7 @@
 
 @section('content')
 
-		<h1>Edit Data Mahasiswa</h1>
+		<h1>Detail Data Mahasiswa</h1>
 		@if(session('sukses'))
 		<div class="alert alert-success" role="alert">
 			{{session('sukses')}}
